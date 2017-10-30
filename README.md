@@ -13,3 +13,8 @@ We are using pattern recognization algorithm (Dynamic Time Wrapping Algorithm) f
 ## What happens if the user drops the phone by mistake
 
 We will keep a buffer time of 15 seconds and bepping a siren to the user saying that they have dropped the phone. If no response is given then only the message will be going to the relatives with the geo cordinates of the user. 
+
+## NOTES: 
+### install the dtw (dynamic time wrapping algorithm) package before using the code.
+### This was made for Open Data Gov Hackathon. 
+### For demonstration puprose we collected the data of the accelerometer by hitting on the wall while having the mobile phones and waling normally 
