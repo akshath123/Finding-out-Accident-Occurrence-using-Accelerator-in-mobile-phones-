@@ -17,4 +17,4 @@ We will keep a buffer time of 15 seconds and bepping a siren to the user saying 
 ## NOTES: 
 ### install the dtw (dynamic time wrapping algorithm) package before using the code.
 ### This was made for Open Data Gov Hackathon. 
-### For demonstration puprose we collected the data of the accelerometer by hitting on the wall while having the mobile phones and waling normally 
+### For demonstration puprose we collected the data of the accelerometer by hitting on the wall while having the mobile phones and walking normally. We clustered them accordingly. 
