@@ -8,7 +8,7 @@ The mobile phones accelerometer data will be feteched for every 2 mins and given
 
 ## The Analytics
 
-We are using pattern recognization algorithm (Dynamic Time Wrapping Algorithm) for finding out the distance between the signals ( the accelerometer data ) and cluster them using a modified K-means clustering. Here the distance metric we use is the distance what we get by comparing the two time series signals. 
+We are using **pattern recognization algorithm (Dynamic Time Wrapping Algorithm)** for finding out the distance between the signals ( the accelerometer data ) and cluster them using a **modified version of K-means clustering**. Here the distance metric we use is the distance what we get by comparing the two time series signals. 
 
 ## What happens if the user drops the phone by mistake
 
