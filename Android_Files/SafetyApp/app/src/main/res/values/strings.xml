@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Register</string>
+    <string-array name="country_arrays">
+        <item>Choose State</item>
+        <item>Odisha</item>
+        <item>Tamil Nadu</item>
+    </string-array>
+    <string-array name="district_arrays">
+        <item>Choose District</item>
+        <item>Khodra</item>
+        <item>Kendrapara</item>
+        <item>Jajpur</item>
+    </string-array>
+    <string name="title_activity_main2">Safety App</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format"></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
